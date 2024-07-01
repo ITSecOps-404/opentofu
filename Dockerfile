@@ -3,7 +3,7 @@
 # Copyright (c) 2023 HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
 
-FROM alpine:3.18
+FROM alpine:3
 
 LABEL maintainer="OpenTofu Core Team <core@opentofu.org>"
 
